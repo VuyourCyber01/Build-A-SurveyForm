@@ -27,7 +27,7 @@ Solution of "build a survey form project" from freeCodeCamp
 ----
 
 #### 📋 **RESULT:**
-![image](https://user-images.githubusercontent.com/100227422/170260229-d37abad2-a65c-4095-acbf-8a5892760c50.png)
+![image]([https://user-images.githubusercontent.com/100227422/170260229-d37abad2-a65c-4095-acbf-8a5892760c50.png](https://survey-form.freecodecamp.rocks/?name=Vuyokazi+Mkane&email=whittanymcne1%40gmail.com&age=25&role=job&user-recommend=definitely&mostLike=projects&prefer=front-end-projects&prefer=back-end-projects&prefer=data-visualization&comment=IT+WAS+INSIGHFUL)https://survey-form.freecodecamp.rocks/?name=Vuyokazi+Mkane&email=whittanymcne1%40gmail.com&age=25&role=job&user-recommend=definitely&mostLike=projects&prefer=front-end-projects&prefer=back-end-projects&prefer=data-visualization&comment=IT+WAS+INSIGHFUL)
 
 ----
 *font: www.freecodecamp.org/*
